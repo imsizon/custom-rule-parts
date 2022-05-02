@@ -9,6 +9,7 @@ payload:
   # > Google
   - DOMAIN,safebrowsing.googleapis.com
   - DOMAIN,connectivitycheck.gstatic.com
+  - DOMAIN,www.gstatic.com
   - DOMAIN,dl.google.com
   - DOMAIN,dl.l.google.com
   # > Tencent
