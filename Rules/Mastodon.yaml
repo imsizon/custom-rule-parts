@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-SUFFIX,mstdn.social
+  - DOMAIN-SUFFIX,mas.to
+  - DOMAIN-SUFFIX,cmx.im
+  - DOMAIN-SUFFIX,fosstodon.org
+  - DOMAIN-SUFFIX,o3o.ca
+  - DOMAIN-SUFFIX,c.im
+  - DOMAIN-KEYWORD,mstdn
+  - DOMAIN-KEYWORD,mastodon
+  - DOMAIN-KEYWORD,toot
