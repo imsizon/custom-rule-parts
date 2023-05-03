@@ -21,3 +21,5 @@ payload:
   # > Umeng
   - DOMAIN,msg.umeng.com
   - DOMAIN,msg.umengcloud.com
+  # > tailscale
+  - DOMAIN-SUFFIX,ts.net
