@@ -5,6 +5,8 @@ DOMAIN,bdtj.tagtic.cn
 # > Alibaba
 DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com
+# > DDYS
+DOMAIN-KEYWORD,ddys
 # > Google
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,connectivitycheck.gstatic.com
