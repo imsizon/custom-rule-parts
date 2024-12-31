@@ -26,4 +26,3 @@ payload:
   # > tailscale
   - DOMAIN-SUFFIX,ts.net
   - DOMAIN-SUFFIX,tailscale.com
-  - DOMAIN,api.stentvessel.top
