@@ -2,11 +2,16 @@
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
 DOMAIN,bdtj.tagtic.cn
+DOMAIN-SUFFIX,kelee.one
 # > Alibaba
 DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com
-# > DDYS
+# > Streaming
 DOMAIN-KEYWORD,ddys
+DOMAIN-SUFFIX,ffzy-online.com
+# > Securities
+DOMAIN-SUFFIX,bocionline.com
+DOMAIN-SUFFIX,ibllc.com
 # > Google
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,connectivitycheck.gstatic.com
@@ -24,6 +29,8 @@ DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 # > tailscale
 DOMAIN-SUFFIX,ts.net
+# > parsec
+DOMAIN-SUFFIX,parsec.app
 # > Apple CDN
 DOMAIN,aod.itunes.apple.com
 DOMAIN,api.smoot.apple.cn
