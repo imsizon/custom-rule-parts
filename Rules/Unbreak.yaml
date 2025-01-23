@@ -9,6 +9,15 @@ payload:
   # > Streaming
   - DOMAIN-KEYWORD,ddys
   - DOMAIN-SUFFIX,ffzy-online.com
+  - DOMAIN-SUFFIX,ffzy-play7.com
+  - DOMAIN-SUFFIX,qrssv.com
+  - DOMAIN-SUFFIX,rrcdnbf3.com
+  - DOMAIN-SUFFIX,ryplay7.com
+  - DOMAIN-SUFFIX,r5oa1oqwh6gz.com
+  - DOMAIN-SUFFIX,simaguo.com
+  - DOMAIN-SUFFIX,modujx15.com
+  - DOMAIN-SUFFIX,bxgbnet.com
+  - DOMAIN-SUFFIX,tlkqc.com
   # > Securities
   - DOMAIN-SUFFIX,bocionline.com
   - DOMAIN-SUFFIX,ibllc.com
