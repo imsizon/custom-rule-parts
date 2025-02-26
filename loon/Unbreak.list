@@ -28,6 +28,8 @@ DOMAIN-SUFFIX,egghij.com
 # > Securities
 DOMAIN-SUFFIX,bocionline.com
 DOMAIN-SUFFIX,ibllc.com
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,interactivebrokers.com.hk
 # > Google
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,connectivitycheck.gstatic.com
