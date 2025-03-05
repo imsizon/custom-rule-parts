@@ -3,8 +3,6 @@ payload:
   - DOMAIN,app.adjust.com
   - DOMAIN,app.appsflyer.com
   - DOMAIN,bdtj.tagtic.cn
-  - DOMAIN,doh.sb
-  - DOMAIN,dns.sb
   # > Alibaba
   - DOMAIN,log.mmstat.com
   - DOMAIN,sycm.mmstat.com
