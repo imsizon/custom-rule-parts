@@ -27,6 +27,8 @@ payload:
   - DOMAIN-SUFFIX,egghij.com
   - DOMAIN-SUFFIX,baisiweiting.com
   - DOMAIN-SUFFIX,xlzyd.com
+  # > Misc
+  - DOMAIN-SUFFIX,api-linkcube.dev
   # > Securities
   - DOMAIN-SUFFIX,bocionline.com
   - DOMAIN-SUFFIX,ibllc.com
