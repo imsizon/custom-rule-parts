@@ -8,6 +8,9 @@ payload:
   - DOMAIN,sycm.mmstat.com
   # > Streaming
   - DOMAIN-KEYWORD,ddys
+  - DOMAIN-SUFFIX,findjs.top
+  - DOMAIN-SUFFIX,jiexicn.top
+  - DOMAIN-SUFFIX,ckhao.top
   - DOMAIN-SUFFIX,ffzy-online.com
   - DOMAIN-SUFFIX,ffzy-play7.com
   - DOMAIN-KEYWORD,ffzy-play
