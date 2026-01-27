@@ -31,6 +31,10 @@ payload:
   - DOMAIN-SUFFIX,xlzyd.com
   # > Misc
   - DOMAIN-SUFFIX,api-linkcube.dev
+  - DOMAIN-SUFFIX,wd-turbo.com,DIRECT
+  - DOMAIN-SUFFIX,gdstudio.org,DIRECT
+  - DOMAIN-SUFFIX,wtmdjxkq.com,DIRECT
+  - DOMAIN-KEYWORD,yoozb,DIRECT
   # > Securities
   - DOMAIN-SUFFIX,bocionline.com
   - DOMAIN-SUFFIX,ibllc.com
@@ -73,3 +77,6 @@ payload:
   - DOMAIN-KEYWORD,epicgames
   # > Microsoft
   - DOMAIN-SUFFIX,msftconnecttest.com
+  # > HF-mirror
+  - DOMAIN-SUFFIX,hf.co,DIRECT
+  - DOMAIN-SUFFIX,hf-mirror.com,DIRECT
