@@ -58,6 +58,9 @@ payload:
   - DOMAIN-SUFFIX,tailscale.com
   # > parsec
   - DOMAIN-SUFFIX,parsec.app
+  # > namesilo
+  - DOMAIN-SUFFIX,namesilo.com
+  - DOMAIN-SUFFIX,paymentwall.com
   # > Apple CDN
   - DOMAIN,aod.itunes.apple.com
   - DOMAIN,api.smoot.apple.cn
