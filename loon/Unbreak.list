@@ -40,6 +40,8 @@ DOMAIN-SUFFIX,bocionline.com
 DOMAIN-SUFFIX,ibllc.com
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,interactivebrokers.com.hk
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,thinkorswim.com
 # > Google
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,connectivitycheck.gstatic.com
